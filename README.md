@@ -25,6 +25,7 @@ The tool estimates **CO₂ emissions per inference or task**, compares multiple 
 ---
 
 ## 🧩 Repository Structure
+```
 ├── source/ # Source code for the application
 │ ├── dashboard.py
 │ ├── experiment.ipynb
@@ -35,6 +36,7 @@ The tool estimates **CO₂ emissions per inference or task**, compares multiple 
 ├── pitchdeck.pdf # Project presentation and key insights
 ├── certification/ # IBM certifications
 └── README.md # This file
+```
 
 ---
 
@@ -89,4 +91,5 @@ This project is released for educational and hackathon purposes.
 Please check individual file headers or contact the team for reuse permissions.
 
 ---
+
 
